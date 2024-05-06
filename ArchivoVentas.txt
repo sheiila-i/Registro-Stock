@@ -1,0 +1,4 @@
+(24/08/2023 21:52) producto: lapiz ; cantidad: 3 - ingreso: 75 ; stock actualizado: 7 
+(24/08/2023 22:05) producto: plasticola ; cantidad: 11 - ingreso: 297 ; stock actualizado: 5 
+(06/05/2024 20:19) producto: x ; cantidad: 9 - ingreso: 180 ; stock actualizado: 0 
+(06/05/2024 20:23) producto: Medias ; cantidad: 7 - ingreso: 4900 ; stock actualizado: 7 

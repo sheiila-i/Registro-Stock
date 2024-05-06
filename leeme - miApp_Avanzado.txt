@@ -1,0 +1,16 @@
+Este archivo cuenta con:
+
+--> un servidor, que debe ser iniciado antes de abrir la interfaz tkinter por cmd, (esta interfaz es abierta mediante "controlador.py"). 
+Este tiene una base de datos que es aquella que se mostrará al abrirse la aplicación "miApp_Avanzado".
+(cada aplicación abierta se entiende como un cliente que se conecta al servidor)
+
+--> un archivo.pkl que mediante un decorador se va actualizando cada vez que sus valores se modifican. 
+el patron observador que segun lo obtenido del archivoTotales.pkl y sus modificaciones, refleja en la vista de la interfaz dichos valores
+
+--> se guardan los movimientos "compra" "venta" en sus correspondientes archivos.txt mediante un decorador.
+
+--> la posibilidad de modificar la base de datos desde la interfaz
+
+
+
+desarrollado por: Sheila Aguilar Mariaca
